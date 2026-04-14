@@ -1,8 +1,4 @@
-# Gestão de Funcionários 
 
-Este projeto foi desenvolvido como parte de uma atividade prática para a disciplina de **Engenharia de Software**. O objetivo é gerenciar uma lista de funcionários de uma indústria, aplicando conceitos sólidos de **Programação Orientada a Objetos (POO)**, **Princípios SOLID** e manipulação eficiente de dados utilizando os recursos modernos da linguagem Java.
-
----
 
 ## Funcionalidades Implementadas
 
